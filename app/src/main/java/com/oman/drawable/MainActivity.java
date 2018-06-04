@@ -9,7 +9,6 @@ import android.widget.Toast;
 
 /**
  * @author 15936
- * 1
  */
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "aaa";
