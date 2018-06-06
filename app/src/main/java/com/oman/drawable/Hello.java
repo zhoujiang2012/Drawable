@@ -6,5 +6,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("hello");
         Flowable.just("hello world").subscribe(System.out::println);
+        Flowable.just("hello world").subscribe(System.out::println);
     }
 }
